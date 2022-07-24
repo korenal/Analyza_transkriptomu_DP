@@ -1,7 +1,7 @@
 # Analyza_transkriptomu_DP
 Tento GitHub repozitář byl vytvořen k uložení skriptů a výsledných souborů diplomové práce "**Analýza transkriptomu tasemnice *Mesocestoides corti***"
 
-#### Skripty napsané v programovacím jazyku Python
+### Skripty napsané v programovacím jazyku Python
 `filtering_ncbi.py`
 * Provádí výběr jedné z 5 nalezených NCBI anotací ke každému transkriptu, primárně podle funkční anotace genu a  sekundárně podle nejvyšší hodnoty bit_skore
 
@@ -15,7 +15,7 @@ Tento GitHub repozitář byl vytvořen k uložení skriptů a výsledných soubo
 * Provádí analýzu genového obohacení (gene enrichment analysis) pomocí Fisherova exaktiního testu
 
 
-#### Výsledné soubory
+### Výsledné soubory
 ``Anotované transkriptomy``
 * Obsahuje soubory s anotovanými transkriptomy pro každý vzorek (**B_transcriptome_annotaion.xlsx**, **ICR_transcriptome_annotation.xlsx**, **IV_transckriptome_annotation.xlsx**)
 
