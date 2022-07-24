@@ -16,11 +16,11 @@ Tento GitHub repozitář byl vytvořen k uložení skriptů a výsledných soubo
 
 
 #### Výsledné soubory
-**Anotované transkriptomy**
+``Anotované transkriptomy``
 * Obsahuje soubory s anotovanými transkriptomy pro každý vzorek (**B_transcriptome_annotaion.xlsx**, **ICR_transcriptome_annotation.xlsx**, **IV_transckriptome_annotation.xlsx**)
 
-**Diferenciální exprese anotovaných transkriptů**
+``Diferenciální exprese anotovaných transkriptů``
 * Obsahuje soubory s diferenciálně exprimovanými transkripty anotovanými pomocí KEGG a NCBI databáze pro každou dvojici vzorků (**B&ICR_diffexprese_anotace.xlsx**, **B&IV_diffexprese_anotace.xlsx**, **ICR&IV_diffexprese_anotace.xlsx**)
 
-**Gene enrichment**
+``Gene enrichment``
 * Obsahuje soubory s provedenou analýzou genového obohacení (gene enrichment analysis) biologických drah pomocí Fisherova exaktního testu pro každou dvojici vzorků (**B&ICR_diffexprese_anotace.xlsx**, **B&IV_diffexprese_anotace.xlsx**, **ICR&IV_diffexprese_anotace.xlsx**) 
