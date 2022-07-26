@@ -1,3 +1,8 @@
+""" 
+    This script merge the table of differential expressed transcripts of individual pairs of replicates (B&IV, ICR&IV, B&ICR) with KEGG and NCBI
+    annotations based on the unique identifier of each transcript
+"""
+
 import pandas as pd
 import re
 import numpy as np
@@ -15,7 +20,8 @@ diffexpr.set_index("Numbers",drop=True,inplace=True)
 
 # Reading the ncbi file
 ncbi = pd.read_csv("BLASTP_M_corti.PRJEB510.WBPS15.protein_NCBI_final.txt",delimiter='\t',header=None)
-ncbi.rename(columns={0: 'Gene', 1: 'sseqid', 2: 'NCBI_anno', 3: 'pident', 4: 'length', 5: 'mismatch', 6: 'gapopen', 7: 'qstart', 8: 'qend', 9: 'sstart', 10: 'send', 11: 'evalue', 12: 'bitscore' }, inplace = True)
+ncbi.rename(columns={0: 'Gene', 1: 'sseqid', 2: 'NCBI_anno', 3: 'pident', 4: 'length', 5: 'mismatch', 6: 'gapopen', 7: 'qstart', 8: 'qend',
+                     9: 'sstart', 10: 'send', 11: 'evalue', 12: 'bitscore' }, inplace = True)
 
 # Reading the KEGG file
 KEGG = pd.read_csv("KEGG_anno_ghost_koala_ref_proteome_PRJEB510.WBPS15.txt",delimiter='\t',header=None)
@@ -26,7 +32,8 @@ outer_file = pd.merge(diffexpr, ncbi, how="outer", on=["Gene"])
 outer_file2 = pd.merge(outer_file, KEGG, how="outer", on = ["Gene"])
 
 # Get the right order of columns
-all_data = outer_file2[['Gene','KEGG_ID','KEGG_anno','NCBI_anno','baseMean','log2FoldChange','lfcSE','stat','pvalue','padj','B1','B2','B3','B4','ICR1','ICR2','ICR3','ICR4']]
+all_data = outer_file2[['Gene','KEGG_ID','KEGG_anno','NCBI_anno','baseMean','log2FoldChange','lfcSE','stat','pvalue','padj',
+                        'B1','B2','B3','B4','ICR1','ICR2','ICR3','ICR4']]
 all_data.to_excel(writer, sheet_name='all_data')
 
 # Have only the columns with padj. < 0.05
