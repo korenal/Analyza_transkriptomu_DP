@@ -1,0 +1,156 @@
+Metabolism
+Global and overview maps
+01100 Metabolic pathways (1)
+01110 Biosynthesis of secondary metabolites (1)
+Lipid metabolism
+00100 Steroid biosynthesis (1)
+00564 Glycerophospholipid metabolism (1)
+Amino acid metabolism
+00270 Cysteine and methionine metabolism (1)
+00380 Tryptophan metabolism (1)
+Metabolism of other amino acids
+00450 Selenocompound metabolism (1)
+Genetic Information Processing
+Folding, sorting and degradation
+04120 Ubiquitin mediated proteolysis (1)
+Environmental Information Processing
+Signal transduction
+04012 ErbB signaling pathway (1)
+04014 Ras signaling pathway (1)
+04015 Rap1 signaling pathway (1)
+04310 Wnt signaling pathway (1)
+04390 Hippo signaling pathway (1)
+04370 VEGF signaling pathway (1)
+04630 JAK-STAT signaling pathway (1)
+04668 TNF signaling pathway (1)
+04066 HIF-1 signaling pathway (1)
+04068 FoxO signaling pathway (1)
+04020 Calcium signaling pathway (1)
+04070 Phosphatidylinositol signaling system (1)
+04072 Phospholipase D signaling pathway (1)
+04071 Sphingolipid signaling pathway (1)
+04024 cAMP signaling pathway (1)
+04151 PI3K-Akt signaling pathway (1)
+04152 AMPK signaling pathway (1)
+04150 mTOR signaling pathway (1)
+Signaling molecules and interaction
+04080 Neuroactive ligand-receptor interaction (1)
+Cellular Processes
+Transport and catabolism
+04140 Autophagy - animal (1)
+Cell growth and death
+04210 Apoptosis (1)
+04218 Cellular senescence (1)
+Cellular community - eukaryotes
+04510 Focal adhesion (1)
+04520 Adherens junction (1)
+04550 Signaling pathways regulating pluripotency of stem cells (1)
+Cell motility
+04810 Regulation of actin cytoskeleton (1)
+Organismal Systems
+Immune system
+04611 Platelet activation (1)
+04613 Neutrophil extracellular trap formation (1)
+04620 Toll-like receptor signaling pathway (1)
+04625 C-type lectin receptor signaling pathway (1)
+04650 Natural killer cell mediated cytotoxicity (1)
+04660 T cell receptor signaling pathway (1)
+04662 B cell receptor signaling pathway (1)
+04664 Fc epsilon RI signaling pathway (1)
+04666 Fc gamma R-mediated phagocytosis (1)
+04670 Leukocyte transendothelial migration (1)
+04062 Chemokine signaling pathway (1)
+Endocrine system
+04910 Insulin signaling pathway (1)
+04923 Regulation of lipolysis in adipocytes (1)
+04929 GnRH secretion (1)
+04915 Estrogen signaling pathway (1)
+04914 Progesterone-mediated oocyte maturation (1)
+04917 Prolactin signaling pathway (1)
+04926 Relaxin signaling pathway (1)
+04935 Growth hormone synthesis, secretion and action (1)
+04919 Thyroid hormone signaling pathway (1)
+04916 Melanogenesis (1)Digestive system
+04973 Carbohydrate digestion and absorption (1)
+04979 Cholesterol metabolism (1)
+Excretory system
+04960 Aldosterone-regulated sodium reabsorption (1)
+Nervous system
+04725 Cholinergic synapse (1)
+04722 Neurotrophin signaling pathway (1)
+Sensory system
+04750 Inflammatory mediator regulation of TRP channels (1)
+Development and regeneration
+04360 Axon guidance (1)
+04380 Osteoclast differentiation (1)Aging
+04211 Longevity regulating pathway (1)
+04213 Longevity regulating pathway - multiple species (1)
+Human Diseases
+Cancer: overview
+05200 Pathways in cancer (2)
+05206 MicroRNAs in cancer (1)
+05205 Proteoglycans in cancer (1)
+05207 Chemical carcinogenesis - receptor activation (1)
+05208 Chemical carcinogenesis - reactive oxygen species (1)
+05203 Viral carcinogenesis (1)
+05230 Central carbon metabolism in cancer (1)
+05231 Choline metabolism in cancer (2)
+05235 PD-L1 expression and PD-1 checkpoint pathway in cancer (1)
+Cancer: specific types
+05210 Colorectal cancer (2)
+05212 Pancreatic cancer (1)
+05225 Hepatocellular carcinoma (2)
+05226 Gastric cancer (2)
+05214 Glioma (1)
+05216 Thyroid cancer (1)
+05221 Acute myeloid leukemia (2)
+05220 Chronic myeloid leukemia (1)
+05217 Basal cell carcinoma (1)
+05218 Melanoma (1)
+05211 Renal cell carcinoma (1)
+05215 Prostate cancer (2)
+05213 Endometrial cancer (2)
+05224 Breast cancer (2)
+05222 Small cell lung cancer (1)
+05223 Non-small cell lung cancer (1)
+Infectious disease: viral
+05166 Human T-cell leukemia virus 1 infection (1)
+05170 Human immunodeficiency virus 1 infection (1)
+05161 Hepatitis B (1)
+05160 Hepatitis C (1)
+05171 Coronavirus disease - COVID-19 (1)
+05164 Influenza A (1)
+05162 Measles (1)
+05168 Herpes simplex virus 1 infection (1)
+05163 Human cytomegalovirus infection (1)
+05167 Kaposi sarcoma-associated herpesvirus infection (2)
+05169 Epstein-Barr virus infection (1)
+05165 Human papillomavirus infection (2)
+Infectious disease: bacterial
+05132 Salmonella infection (1)
+05131 Shigellosis (1)
+05135 Yersinia infection (1)
+05100 Bacterial invasion of epithelial cells (1)
+Infectious disease: parasitic
+05146 Amoebiasis (1)
+05142 Chagas disease (1)
+Neurodegenerative disease
+05010 Alzheimer disease (1)
+05017 Spinocerebellar ataxia (1)
+05020 Prion disease (1)
+Cardiovascular disease
+05417 Lipid and atherosclerosis (1)
+05418 Fluid shear stress and atherosclerosis (1)
+05412 Arrhythmogenic right ventricular cardiomyopathy (1)
+05415 Diabetic cardiomyopathy (1)
+Endocrine and metabolic disease
+04930 Type II diabetes mellitus (1)
+04936 Alcoholic liver disease (1)
+04932 Non-alcoholic fatty liver disease (1)
+04931 Insulin resistance (1)
+04933 AGE-RAGE signaling pathway in diabetic complications (1)
+04934 Cushing syndrome (1)
+Drug resistance: antineoplastic
+01521 EGFR tyrosine kinase inhibitor resistance (1)
+01524 Platinum drug resistance (1)
+01522 Endocrine resistance (1)
