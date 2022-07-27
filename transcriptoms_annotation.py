@@ -3,19 +3,19 @@ import re
 import numpy as np
 
 # Make output Pandas Excel writer using XlsxWriter as the engine
-output_name = "IV_annotation.xlsx"
+output_name = "IV_annotation.xlsx" # CHANGE THIS
 writer = pd.ExcelWriter(output_name, engine = 'xlsxwriter')
 
 # Reading the input file from the RSEM
-input_file = pd.read_csv("IV_file.csv", delimiter=';', header=0)
+input_file = pd.read_csv("IV_file.csv", delimiter=';', header=0) # CHANGE THIS
 input_file
 
 # Reading the ncbi file
-ncbi = pd.read_csv("BLASTP_M_corti.PRJEB510.WBPS15.protein_NCBI_final.txt",delimiter='\t',header=None)
+ncbi = pd.read_csv("BLASTP_M_corti.PRJEB510.WBPS15.protein_NCBI_final.txt",delimiter='\t',header=None) # CHANGE THIS
 ncbi.rename(columns={0: 'TranscriptID', 1: 'sseqid', 2: 'NCBI_anno', 3: 'pident', 4: 'length', 5: 'mismatch', 6: 'gapopen', 7: 'qstart', 8: 'qend', 9: 'sstart', 10: 'send', 11: 'evalue', 12: 'bitscore' }, inplace = True)
 
 # Reading the KEGG file
-KEGG = pd.read_csv("KEGG_anno_ghost_koala_ref_proteome_PRJEB510.WBPS15.txt",delimiter='\t',header=None)
+KEGG = pd.read_csv("KEGG_anno_ghost_koala_ref_proteome_PRJEB510.WBPS15.txt",delimiter='\t',header=None) # CHANGE THIS
 KEGG.rename(columns = {0: 'TranscriptID', 1:'KEGG_ID', 2:'KEGG_anno'}, inplace = True)
 
 # Outer joining of files by specific column ('Gene')
