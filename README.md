@@ -2,7 +2,7 @@
 Tento GitHub repozitář byl vytvořen k uložení skriptů a výsledných souborů diplomové práce "**Analýza transkriptomu tasemnice *Mesocestoides corti***"
 
 ### Skripty napsané v programovacím jazyku Python
-- Vzorová testovací data jsou k dispozici ve složce `Testovaci_data`
+- Vzorová testovací data jsou k dispozici ve složce `Testovaci_soubory`
 
 `filtering_ncbi.py`
 * Slouží k výběru jedné konkrétní anotace z 5 různých NCBI anotací u každého transkriptu primárně na základě funkční anotace genu a sekundárně podle nejvyšší hodnoty bit_score
