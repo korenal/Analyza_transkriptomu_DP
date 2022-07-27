@@ -12,7 +12,7 @@ output_name = "B_ICR_expression_and_annotation.xlsx"
 writer = pd.ExcelWriter(output_name, engine = 'xlsxwriter')
 
 # Reading the first file = output of DeSeQ2
-diffexpr = pd.read_csv("diffexpr-results.csv",delimiter=',',header=0)
+diffexpr = pd.read_csv("diffexpr-results-b_icr.csv",delimiter=',',header=0)
 new_columns = diffexpr.columns.values
 new_columns[0] = 'Numbers'
 diffexpr.columns = new_columns
