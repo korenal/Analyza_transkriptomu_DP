@@ -8,7 +8,8 @@ Global and overview maps
 01212 Fatty acid metabolism (5)
 01230 Biosynthesis of amino acids (2)
 01250 Biosynthesis of nucleotide sugars (4)
-01240 Biosynthesis of cofactors (7)Carbohydrate metabolism
+01240 Biosynthesis of cofactors (7)
+Carbohydrate metabolism
 00010 Glycolysis / Gluconeogenesis (4)
 00020 Citrate cycle (TCA cycle) (7)
 00030 Pentose phosphate pathway (1)
@@ -20,7 +21,8 @@ Global and overview maps
 00620 Pyruvate metabolism (3)
 00630 Glyoxylate and dicarboxylate metabolism (1)
 00640 Propanoate metabolism (4)
-00562 Inositol phosphate metabolism (1)Energy metabolism
+00562 Inositol phosphate metabolism (1)
+Energy metabolism
 00190 Oxidative phosphorylation (9)
 00710 Carbon fixation in photosynthetic organisms (1)
 00720 Carbon fixation pathways in prokaryotes (1)
@@ -33,9 +35,11 @@ Global and overview maps
 00565 Ether lipid metabolism (1)
 00600 Sphingolipid metabolism (3)
 00590 Arachidonic acid metabolism (1)
-01040 Biosynthesis of unsaturated fatty acids (4)Nucleotide metabolism
+01040 Biosynthesis of unsaturated fatty acids (4)
+Nucleotide metabolism
 00230 Purine metabolism (5)
-00240 Pyrimidine metabolism (5)Amino acid metabolism
+00240 Pyrimidine metabolism (5)
+Amino acid metabolism
 00250 Alanine, aspartate and glutamate metabolism (4)
 00260 Glycine, serine and threonine metabolism (3)
 00270 Cysteine and methionine metabolism (3)
@@ -43,10 +47,12 @@ Global and overview maps
 00310 Lysine degradation (2)
 00220 Arginine biosynthesis (2)
 00330 Arginine and proline metabolism (1)
-00380 Tryptophan metabolism (3)Metabolism of other amino acids
+00380 Tryptophan metabolism (3)
+Metabolism of other amino acids
 00410 beta-Alanine metabolism (3)
 00450 Selenocompound metabolism (1)
-00480 Glutathione metabolism (2)Glycan biosynthesis and metabolism
+00480 Glutathione metabolism (2)
+Glycan biosynthesis and metabolism
 00510 N-Glycan biosynthesis (1)
 00513 Various types of N-glycan biosynthesis (1)
 00512 Mucin type O-glycan biosynthesis (1)
@@ -56,32 +62,42 @@ Global and overview maps
 00533 Glycosaminoglycan biosynthesis - keratan sulfate (1)
 00563 Glycosylphosphatidylinositol (GPI)-anchor biosynthesis (2)
 00601 Glycosphingolipid biosynthesis - lacto and neolacto series (1)
-00541 O-Antigen nucleotide sugar biosynthesis (1)Metabolism of cofactors and vitamins
+00541 O-Antigen nucleotide sugar biosynthesis (1)
+Metabolism of cofactors and vitamins
 00730 Thiamine metabolism (2)
 00760 Nicotinate and nicotinamide metabolism (1)
 00770 Pantothenate and CoA biosynthesis (3)
 00790 Folate biosynthesis (2)
 00670 One carbon pool by folate (1)
 00860 Porphyrin and chlorophyll metabolism (1)
-00130 Ubiquinone and other terpenoid-quinone biosynthesis (1)Metabolism of terpenoids and polyketides
-00900 Terpenoid backbone biosynthesis (1)Biosynthesis of other secondary metabolites
+00130 Ubiquinone and other terpenoid-quinone biosynthesis (1)
+Metabolism of terpenoids and polyketides
+00900 Terpenoid backbone biosynthesis (1)
+Biosynthesis of other secondary metabolites
 00521 Streptomycin biosynthesis (2)
-00524 Neomycin, kanamycin and gentamicin biosynthesis (1)Xenobiotics biodegradation and metabolism
+00524 Neomycin, kanamycin and gentamicin biosynthesis (1)
+Xenobiotics biodegradation and metabolism
 00980 Metabolism of xenobiotics by cytochrome P450 (1)
 00982 Drug metabolism - cytochrome P450 (1)
-00983 Drug metabolism - other enzymes (6)Genetic Information Processing
+00983 Drug metabolism - other enzymes (6)
+Genetic Information Processing
 Transcription
-03040 Spliceosome (3)Translation
+03040 Spliceosome (3)
+Translation
 03010 Ribosome (3)
-03008 Ribosome biogenesis in eukaryotes (1)Folding, sorting and degradation
+03008 Ribosome biogenesis in eukaryotes (1)
+Folding, sorting and degradation
 04141 Protein processing in endoplasmic reticulum (6)
-03018 RNA degradation (3)Replication and repair
+03018 RNA degradation (3)
+Replication and repair
 03030 DNA replication (1)
 03410 Base excision repair (1)
 03420 Nucleotide excision repair (1)
-03430 Mismatch repair (1)Environmental Information Processing
+03430 Mismatch repair (1)
+Environmental Information Processing
 Membrane transport
-02010 ABC transporters (1)Signal transduction
+02010 ABC transporters (1)
+Signal transduction
 02020 Two-component system (1)
 04010 MAPK signaling pathway (3)
 04013 MAPK signaling pathway - fly (3)
@@ -108,9 +124,11 @@ Membrane transport
 04022 cGMP-PKG signaling pathway (3)
 04151 PI3K-Akt signaling pathway (4)
 04152 AMPK signaling pathway (1)
-04150 mTOR signaling pathway (2)Signaling molecules and interaction
+04150 mTOR signaling pathway (2)
+Signaling molecules and interaction
 04080 Neuroactive ligand-receptor interaction (1)
-04512 ECM-receptor interaction (2)Cellular Processes
+04512 ECM-receptor interaction (2)
+Cellular Processes
 Transport and catabolism
 04144 Endocytosis (9)
 04145 Phagosome (6)
@@ -118,7 +136,8 @@ Transport and catabolism
 04140 Autophagy - animal (2)
 04138 Autophagy - yeast (5)
 04136 Autophagy - other (1)
-04137 Mitophagy - animal (2)Cell growth and death
+04137 Mitophagy - animal (2)
+Cell growth and death
 04110 Cell cycle (2)
 04111 Cell cycle - yeast (1)
 04114 Oocyte meiosis (3)
@@ -127,12 +146,14 @@ Transport and catabolism
 04215 Apoptosis - multiple species (1)
 04217 Necroptosis (5)
 04115 p53 signaling pathway (1)
-04218 Cellular senescence (2)Cellular community - eukaryotes
+04218 Cellular senescence (2)
+Cellular community - eukaryotes
 04510 Focal adhesion (7)
 04520 Adherens junction (2)
 04530 Tight junction (8)
 04540 Gap junction (2)Cell motility
-04810 Regulation of actin cytoskeleton (9)Organismal Systems
+04810 Regulation of actin cytoskeleton (9)
+Organismal Systems
 Immune system
 04611 Platelet activation (4)
 04613 Neutrophil extracellular trap formation (3)
@@ -151,7 +172,8 @@ Immune system
 04664 Fc epsilon RI signaling pathway (2)
 04666 Fc gamma R-mediated phagocytosis (5)
 04670 Leukocyte transendothelial migration (4)
-04062 Chemokine signaling pathway (3)Endocrine system
+04062 Chemokine signaling pathway (3)
+Endocrine system
 04911 Insulin secretion (1)
 04910 Insulin signaling pathway (3)
 04922 Glucagon signaling pathway (4)
@@ -171,10 +193,12 @@ Immune system
 04916 Melanogenesis (1)
 04924 Renin secretion (2)
 04925 Aldosterone synthesis and secretion (3)
-04927 Cortisol synthesis and secretion (1)Circulatory system
+04927 Cortisol synthesis and secretion (1)
+Circulatory system
 04260 Cardiac muscle contraction (5)
 04261 Adrenergic signaling in cardiomyocytes (3)
-04270 Vascular smooth muscle contraction (3)Digestive system
+04270 Vascular smooth muscle contraction (3)
+Digestive system
 04970 Salivary secretion (1)
 04971 Gastric acid secretion (3)
 04972 Pancreatic secretion (1)
@@ -188,25 +212,30 @@ Immune system
 04962 Vasopressin-regulated water reabsorption (2)
 04961 Endocrine and other factor-regulated calcium reabsorption (1)
 04964 Proximal tubule bicarbonate reclamation (2)
-04966 Collecting duct acid secretion (2)Nervous system
+04966 Collecting duct acid secretion (2)
+Nervous system
 04724 Glutamatergic synapse (2)
 04728 Dopaminergic synapse (2)
 04720 Long-term potentiation (1)
 04723 Retrograde endocannabinoid signaling (4)
 04721 Synaptic vesicle cycle (3)
-04722 Neurotrophin signaling pathway (3)Sensory system
+04722 Neurotrophin signaling pathway (3)
+Sensory system
 04744 Phototransduction (1)
 04745 Phototransduction - fly (4)
 04740 Olfactory transduction (4)
 04742 Taste transduction (1)
-04750 Inflammatory mediator regulation of TRP channels (2)Development and regeneration
+04750 Inflammatory mediator regulation of TRP channels (2)
+Development and regeneration
 04360 Axon guidance (3)
 04361 Axon regeneration (3)
 04380 Osteoclast differentiation (2)Aging
-04212 Longevity regulating pathway - worm (2)Environmental adaptation
+04212 Longevity regulating pathway - worm (2)
+Environmental adaptation
 04713 Circadian entrainment (1)
 04714 Thermogenesis (10)
-04626 Plant-pathogen interaction (1)Human Diseases
+04626 Plant-pathogen interaction (1)
+Human Diseases
 Cancer: overview
 05200 Pathways in cancer (8)
 05202 Transcriptional misregulation in cancer (1)
@@ -217,7 +246,8 @@ Cancer: overview
 05203 Viral carcinogenesis (3)
 05230 Central carbon metabolism in cancer (3)
 05231 Choline metabolism in cancer (2)
-05235 PD-L1 expression and PD-1 checkpoint pathway in cancer (1)Cancer: specific types
+05235 PD-L1 expression and PD-1 checkpoint pathway in cancer (1)
+Cancer: specific types
 05210 Colorectal cancer (1)
 05212 Pancreatic cancer (1)
 05225 Hepatocellular carcinoma (3)
@@ -225,7 +255,8 @@ Cancer: overview
 05214 Glioma (1)
 05211 Renal cell carcinoma (1)
 05224 Breast cancer (1)
-05222 Small cell lung cancer (2)Infectious disease: viral
+05222 Small cell lung cancer (2)
+Infectious disease: viral
 05166 Human T-cell leukemia virus 1 infection (5)
 05170 Human immunodeficiency virus 1 infection (4)
 05161 Hepatitis B (1)
@@ -236,7 +267,8 @@ Cancer: overview
 05163 Human cytomegalovirus infection (3)
 05167 Kaposi sarcoma-associated herpesvirus infection (2)
 05169 Epstein-Barr virus infection (1)
-05165 Human papillomavirus infection (4)Infectious disease: bacterial
+05165 Human papillomavirus infection (4)
+Infectious disease: bacterial
 05110 Vibrio cholerae infection (2)
 05120 Epithelial cell signaling in Helicobacter pylori infection (2)
 05130 Pathogenic Escherichia coli infection (7)
@@ -245,20 +277,23 @@ Cancer: overview
 05135 Yersinia infection (9)
 05133 Pertussis (2)
 05152 Tuberculosis (3)
-05100 Bacterial invasion of epithelial cells (5)Infectious disease: parasitic
+05100 Bacterial invasion of epithelial cells (5)
+Infectious disease: parasitic
 05146 Amoebiasis (3)
 05145 Toxoplasmosis (1)
 05142 Chagas disease (1)Immune disease
 05322 Systemic lupus erythematosus (1)
 05323 Rheumatoid arthritis (1)
-05340 Primary immunodeficiency (1)Neurodegenerative disease
+05340 Primary immunodeficiency (1)
+Neurodegenerative disease
 05010 Alzheimer disease (13)
 05012 Parkinson disease (11)
 05014 Amyotrophic lateral sclerosis (12)
 05016 Huntington disease (11)
 05017 Spinocerebellar ataxia (1)
 05020 Prion disease (10)
-05022 Pathways of neurodegeneration - multiple diseases (12)Substance dependence
+05022 Pathways of neurodegeneration - multiple diseases (12)
+Substance dependence
 05031 Amphetamine addiction (1)
 05032 Morphine addiction (3)
 05034 Alcoholism (2)Cardiovascular disease
@@ -268,11 +303,13 @@ Cancer: overview
 05412 Arrhythmogenic right ventricular cardiomyopathy (2)
 05414 Dilated cardiomyopathy (3)
 05415 Diabetic cardiomyopathy (12)
-05416 Viral myocarditis (1)Endocrine and metabolic disease
+05416 Viral myocarditis (1)
+Endocrine and metabolic disease
 04930 Type II diabetes mellitus (2)
 04936 Alcoholic liver disease (1)
 04932 Non-alcoholic fatty liver disease (8)
 04931 Insulin resistance (3)
 04933 AGE-RAGE signaling pathway in diabetic complications (3)
-04934 Cushing syndrome (1)Drug resistance: antineoplastic
+04934 Cushing syndrome (1)
+Drug resistance: antineoplastic
 01522 Endocrine resistance (2)
