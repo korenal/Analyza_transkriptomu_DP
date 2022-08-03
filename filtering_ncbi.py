@@ -27,7 +27,7 @@ for line in input_file:
         else:
             concrete_gene = 1
             output_file.write(line)
-    else: # muzu zacit prozkoumavat novy transkript
+    else:
         if last_transcript != transcript and concrete_gene == 0 and last_transcript != "": # transcript with all unknown annotations, write the first annotation
             output_file.write(first_line)
         last_transcript = transcript
