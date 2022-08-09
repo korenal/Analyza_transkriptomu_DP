@@ -6,7 +6,7 @@
 
 import re
 input_file = open("BLASTP_M_corti.PRJEB510.WBPS15.protein_NCBI.txt", 'r')
-output_file = open ("BLASTP_M_cort.PRJEB510.WBPS15.protein_NCBI_final_lucka.txt", 'a+')
+output_file = open ("BLASTP_M_cort.PRJEB510.WBPS15.protein_NCBI_final.txt", 'a+')
 
 
 
