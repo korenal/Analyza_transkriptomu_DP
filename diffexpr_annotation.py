@@ -8,7 +8,7 @@ import re
 import numpy as np
 
 # Make output Pandas Excel writer using XlsxWriter as the engine
-output_name = "B_ICR_expression_and_annotation.xlsx" # CHANGE THIS
+output_name = "B&ICR_diffexprese_anotace.xlsx" # CHANGE THIS
 writer = pd.ExcelWriter(output_name, engine = 'xlsxwriter')
 
 # Reading the first file = output of DeSeQ2
